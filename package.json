@@ -1,0 +1,22 @@
+{
+  "name": "@mushuledragon/tuto-npmjs-packages",
+  "version": "1.0.0",
+  "description": "Here is a tutorial to host packages on npmjs.org",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mushu-Tutorials/tuto-npmjs-packages.git"
+  },
+  "author": "MushuLeDragon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mushu-Tutorials/tuto-npmjs-packages/issues"
+  },
+  "homepage": "https://github.com/Mushu-Tutorials/tuto-npmjs-packages#readme",
+  "dependencies": {
+    "my-package": "0.0.0"
+  }
+}
